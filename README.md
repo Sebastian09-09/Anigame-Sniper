@@ -1,8 +1,8 @@
 # 🎯 AniGame Sniper — Auto Claimer for Anigame Discord Card Game Bot
 
-> 💥 Snipe Cards **before anyone else** on AniGame.  
-> Auto **Voting** / Auto **Floor Clearing** / Auto **Commands**   
-> Fully automated. Blazing fast. Works even while you're AFK.
+💥 Snipe Cards **before anyone else** on AniGame.  
+Auto **Voting** / Auto **Floor Clearing** / Auto **Commands**   
+Fully automated. Blazing fast. Works even while you're AFK.
 
 
 ## 🔥 What It Does
