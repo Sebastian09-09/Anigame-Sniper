@@ -7,7 +7,6 @@
 
 ![AniGame Sniper Preview](https://public-files.gumroad.com/mx4glzpi6pui63pvuusd0mypidzr)
 
-
 ## 🔥 What It Does
 
 AniGame Sniper is a powerful tool that scans AniGame in real time and:
