@@ -4,8 +4,6 @@
 > Auto **Voting** / Auto **Floor Clearing** / Auto **Commands**   
 > Fully automated. Blazing fast. Works even while you're AFK.
 
-![AniGame Sniper](https://public-files.gumroad.com/mx4glzpi6pui63pvuusd0mypidzr)
-
 
 ## 🔥 What It Does
 
